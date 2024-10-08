@@ -14,9 +14,6 @@ function binarySearch(arr, target) {
     } else {
       right = mid - 1;
     }
-  }
-}
+
 
 return -1;
-
-binarySearch([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 5);

@@ -1,17 +1,6 @@
-// be consistent in your coding style
+// This file contains basic arithmetic operations. Each function performs a specific operation.
 
+// Adds two numbers and returns the result.
 function add(a,b) {
     return a + b;
-}
-
-function subtract(a,b) {
-    return a - b;
-}
-
-function multiply(a,b) {
-    return a * b;
-}
-
-function divide(a,b) {
-    return a / b;
 }
