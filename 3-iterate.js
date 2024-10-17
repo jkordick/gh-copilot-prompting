@@ -5,5 +5,3 @@
 // One shot
 // create me data in a json format that contains the following information: 
 // country, points, year, song-title, artist
-
-
